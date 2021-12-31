@@ -1,18 +1,14 @@
 ---
 layout: posts
-title: This is the title of the post
+title: When I was a wee little lad
 postHero: /images/shark.jpg
-author: Me, Myself, and I
+author: Owen Allan
 authorTwitter: https://twitter.com/mhartl
 gravatar: https://gravatar.com/avatar/ffda7d145b83c4b118f982401f962ca6?s=150
 postFooter: Additional information, and maybe a <a href="#">link or two</a>
 ---
 
-Call me *Ishmael*. Some years ago–*never mind how long
-precisely*–having little or no money in my purse, and nothing
-particular to interest me on shore, I thought I would sail about a little
-and see the watery part of the world. It is a way I have of driving off
-the spleen and regulating the circulation.
+Once when I was a wee little lad I put my shoes on and ran out the door to learn a new way to code my pajamas to stay on there are so many differrent languages to learn and I want to be better than the next person so here we are doing something tht I have no idea to do | but i do it anyways
 
 <img class="pull-left" src="https://placekitten.com/g/400/200"
      alt="kitten">
